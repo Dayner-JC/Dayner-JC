@@ -7,9 +7,7 @@
 
 ## About Me
 
-- 💻 Passionate Full-Stack Developer
-- 🛠️ Love diving into CTF challenges in spare time
-- 📚 Currently learning and exploring Web Development
+"I am a passionate full-stack developer with extensive experience in both web and mobile app development. I specialize in creating intuitive and functional interfaces to enhance user experience. Additionally, I have strong expertise in designing and managing SQL databases, ensuring efficient storage and secure access to information. My approach includes agile development, implementing quality testing, and integrating systems to deliver robust and scalable solutions."
 - 📄 My resume: [Link](https://www.canva.com/design/DAGJu7Kw9xQ/J5Ojo8AfFRt1Ks76Yxe0Bg/edit?utm_content=DAGJu7Kw9xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
