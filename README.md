@@ -126,7 +126,7 @@
 
 <div align='center'>
 
-## Thank You for Reading...✨
+## Thank You for Readme...✨
 
 </div>
 <br>
