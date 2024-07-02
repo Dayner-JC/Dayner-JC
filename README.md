@@ -12,7 +12,7 @@
 - 💻 Passionate Full-Stack Developer
 - 🛠️ Love diving into CTF challenges in spare time
 - 📚 Currently learning and exploring Web Development
-- 📄 My resume: [Link](https://read.cv/0xabdulkhalid)
+- 📄 My resume: [Link](https://www.canva.com/design/DAGJu7Kw9xQ/J5Ojo8AfFRt1Ks76Yxe0Bg/edit?utm_content=DAGJu7Kw9xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 
@@ -39,7 +39,7 @@
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/GitHub-Dayner_JC-white?style=for-the-badge&logo=GitHub&logoColor=Black)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
@@ -85,13 +85,13 @@
 
 <li>
 <a href="www.linkedin.com/in/dayner-j-cespedes-61506730b" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:%200xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Linkedin-Dayner_JC-blue?style=for-the-badge&logo=Linkedin&logoColor=Black" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
 <a href="mailto:daynercespedes4@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:%200xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Mail%3A-_daynercespedes4%40gmail.com-white?style=flat-square&logo=Gmail&logoColor=Black" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
