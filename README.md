@@ -84,7 +84,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/dayner-j-cespedes-61506730b" target="_blank">
+<a href="www.linkedin.com/in/daynerjcespedes" target="_blank">
 <img src="https://img.shields.io/badge/Linkedin-Dayner_JC-blue?style=for-the-badge&logo=Linkedin&logoColor=Black" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
