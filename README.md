@@ -7,8 +7,7 @@
 
 ## About Me
 
-"I am a passionate full-stack developer with extensive experience in both web and mobile app development. I specialize in creating intuitive and functional interfaces to enhance user experience. Additionally, I have strong expertise in designing and managing SQL databases, ensuring efficient storage and secure access to information. My approach includes agile development, implementing quality testing, and integrating systems to deliver robust and scalable solutions."
-- 📄 My resume: [Link](https://www.canva.com/design/DAGJu7Kw9xQ/J5Ojo8AfFRt1Ks76Yxe0Bg/edit?utm_content=DAGJu7Kw9xQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+"I am a passionate and highly skilled mobile developer with experience in creating robust and functional mobile applications. I have solid knowledge in practically all mobile development technologies. My goal is to always provide an exceptional user experience and stay updated with the latest trends and technologies. I am proactive, detail-oriented, and quickly adapt to new challenges and work environments."
 
 <br>
 
@@ -31,22 +30,28 @@
 - **Softwares and Tools**:
 
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/google-red?style=for-the-badge&logo=google&logoColor=red&labelColor=green&color=blue)
 
   
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+    ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter)
+
+
     ![Static Badge](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=Firebase)
-    ![Static Badge](https://img.shields.io/badge/Firestore-blue?style=for-the-badge&logo=Fire%20Store)
-    ![Static Badge](https://img.shields.io/badge/ci%2Fcd-red?style=for-the-badge&logo=CI%2FCD)
+    ![Static Badge](https://img.shields.io/badge/Firestore-blue?style=for-the-badge&logo=Firebase)
+    ![Static Badge](https://img.shields.io/badge/ci%2Fcd-red?style=for-the-badge&logo=icloud)
+
+
+    ![Static Badge](https://img.shields.io/badge/Junit_%7C_Espresso-green?style=for-the-badge)
+
+
+    ![Static Badge](https://img.shields.io/badge/android_jetpack-purple?style=for-the-badge&logo=Android)
 
   
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![Static Badge](https://img.shields.io/badge/GitHub-Dayner_JC-white?style=for-the-badge&logo=GitHub&logoColor=Black)
-
-
-    ![Static Badge](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=Flutter)
 
   
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -64,7 +69,7 @@
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 
@@ -85,7 +90,7 @@
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 <br>
@@ -127,11 +132,11 @@
 <br>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 
 Credit: [Dayner JC](https://github.com/Dayner-JC/Dayner-JC)
 
-Last Edited on: 01/06/2024
+Last Edited on: 08/08/2024
 
