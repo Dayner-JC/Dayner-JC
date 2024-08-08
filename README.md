@@ -102,12 +102,6 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/daynerjcespedes" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-Dayner_JC-blue?style=for-the-badge&logo=Linkedin&logoColor=Black" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
 <a href="mailto:daynercespedes4@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Mail%3A-_daynercespedes4%40gmail.com-white?style=flat-square&logo=Gmail&logoColor=Black" t=mail style="margin-bottom: 5px;" />
 </a>
